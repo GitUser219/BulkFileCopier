@@ -6,6 +6,14 @@ A tool that is used to copy all files within a directory and all files within al
 
 A minimum [Java Runtime Environment](http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html) version of 1.8.0 is required to run BulkFileCopier.exe
 
+### Using the tool
+
+1. Run BulkFileCopier.exe
+2. Click the source button and choose the location of the files that you would like to copy
+3. Click the destination button and choose the location that you would like to copy the files to
+4. Click the copy button, read the confirmation text, and choose Yes or No
+5. If you chose yes, then all files from the source folder will be moved to the destination that you chose
+
 ### Built With
 
 * [Java](https://www.java.com/en/) - a general-purpose computer-programming language that is concurrent, class-based, object-oriented, and specifically designed to have as few implementation dependencies as possible
