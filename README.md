@@ -6,12 +6,9 @@ A tool that is used to copy all files within a directory and all files within al
 
 A minimum Java Runtime Environment of 1.8.0 is required to run BulkFileCopier.exe
 
-### Language
-
-* [Java](https://www.java.com/en/) - a general-purpose computer-programming language that is concurrent, class-based, object-oriented, and specifically designed to have as few implementation dependencies as possible
-
 ### Built With
 
+* [Java](https://www.java.com/en/) - a general-purpose computer-programming language that is concurrent, class-based, object-oriented, and specifically designed to have as few implementation dependencies as possible
 * [Eclipse](https://www.eclipse.org) - An integrated development environment (the most widely used Java IDE)
 * [Launch4j](http://launch4j.sourceforge.net/) - Cross-platform Java executable wrapper for creating lightweight Windows native executable files
 
