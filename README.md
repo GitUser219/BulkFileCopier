@@ -12,7 +12,7 @@ A minimum [Java Runtime Environment](http://www.oracle.com/technetwork/java/java
 2. Click the source button and choose the location of the files that you would like to copy
 3. Click the destination button and choose the location that you would like to copy the files to
 4. Click the copy button, read the confirmation text, and choose Yes or No
-5. If you chose yes, then all files from the source folder will be moved to the destination that you chose
+5. If you chose yes, then all files from the source location will be moved to the destination that you chose
 
 ### Built With
 
