@@ -4,7 +4,7 @@ A tool that is used to copy all files within a directory and all files within al
 
 ### Prerequisites
 
-A minimum Java Runtime Environment of 1.8.0 is required to run BulkFileCopier.exe
+A minimum [Java Runtime Environment](http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html) version of 1.8.0 is required to run BulkFileCopier.exe
 
 ### Built With
 
