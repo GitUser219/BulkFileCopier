@@ -41,7 +41,7 @@ If you make a change to the code and you would like to create a new executable f
 6. Make the following changes in the Basic tab of Launch4j
    - Output file: choose the file destination and set the file name to BulkFileCopier.exe
    - Jar: select the BulkFileCopier.jar file that was just created
-   - Icon: select logo.ico
+   - Icon: select logo.ico from Images.zip
 7. Make the following changes in the JRE tab of Launch4j
    - Min JRE version: 1.8.0
 8. Click Build wrapper (gear icon in the upper left-hand corner)
