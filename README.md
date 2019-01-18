@@ -1,4 +1,4 @@
-# BulkFileCopier
+## BulkFileCopier
 
 A tool that is used to copy all files within a directory and all files within all subdirectories to a new location while renaming any files with duplicate names
 
@@ -20,7 +20,7 @@ A minimum [Java Runtime Environment](http://www.oracle.com/technetwork/java/java
 * [Eclipse](https://www.eclipse.org) - An integrated development environment (the most widely used Java IDE)
 * [Launch4j](http://launch4j.sourceforge.net/) - Cross-platform Java executable wrapper for creating lightweight Windows native executable files
 
-## Development
+### Development
 
 The following instructions will help you to set up an environment for development and testing:
 
@@ -37,7 +37,7 @@ The following instructions will help you to set up an environment for developmen
 11. The environment is now set up; right click BulkFileCopier.java (in Eclipse) and click Run As then Java Application to run the program
 12. You can extract the files from Source.zip to test the program
 
-## Deployment
+### Deployment
 
 If you make a change to the code and you would like to create a new executable file, follow these steps:
 
@@ -57,6 +57,6 @@ If you make a change to the code and you would like to create a new executable f
 10. You can delete BulkFileCopier.jar and the configuration file once the executable has been created
 11. Run BulkFileCopier.exe to test that it is working properly
 
-## Authors
+### Authors
 
 * **Jonathan Nowak** - [GitUser219](https://github.com/GitUser219) - **Last Revised 1/17/19**
